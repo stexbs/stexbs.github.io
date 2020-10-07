@@ -1,3 +1,2 @@
-This is my portfolio
-#stexbs.github.io
+#This is my portfolio stexbs.github.io
 
